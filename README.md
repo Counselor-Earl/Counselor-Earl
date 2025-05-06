@@ -1,4 +1,7 @@
-## Hi there 👋
+## This is my GitHub profile. It might not look like much but it's mine!
+
+Check out ![this little script I made](https://github.com/Counselor-Earl/Temperature-Graphing) to graph some temperature analytics:
+![Example graph](https://github.com/Counselor-Earl/Temperature-Graphing/blob/main/Temp_data_0.png)
 
 <!--
 **Counselor-Earl/Counselor-Earl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
